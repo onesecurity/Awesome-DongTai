@@ -32,7 +32,6 @@ A curated list of awesome DongTai IAST resources
 
 
 ### 问题排查
----
 [洞态IAST&FAQ](https://zone.huoxian.cn/d/2334-iastfaq)
 
 [Server常见问题](https://doc.dongtai.io/docs/get-help/faq-server)
