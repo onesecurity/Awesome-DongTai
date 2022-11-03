@@ -38,7 +38,7 @@ A curated list of awesome DongTai IAST resources
 
 - [Elasticsearch 配置](https://i0x0fy4ibf.feishu.cn/file/boxcn0YZQQeeBkBylPBG1EOzr8g)
 
-- [升级SQL列表](https://github.com/HXSecurity/Dongtai-Base-Image/tree/main/mysql)
+- [洞态IAST升级SQL合集](https://github.com/HXSecurity/Dongtai-Base-Image/tree/main/mysql)
 
 
 ### 问题排查
