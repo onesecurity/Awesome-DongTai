@@ -27,6 +27,7 @@ A curated list of awesome DongTai IAST resources
 
 - [DongTai IAST Java Agent分析](https://m0d9.me/2022/10/18/DongTai-IAST-%E5%88%86%E6%9E%90/)
 
+- [洞态IAST源码分析及吐槽](https://www.jianshu.com/p/38eb72e2ff88)
 
 ### 部署
 
